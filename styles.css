@@ -2,4 +2,28 @@
 /* Your CSS Code here. */
 table{
 	border-collapse:collapse;
+	border:1px solid black;
+	width:100%;
+}
+.r1{
+	background:#9D2235;
+	color:whitesmoke;
+	 
+	 
+}
+.r2{
+	background:#F56991; 
+	color:whitesmoke;
+}
+.r3{
+	background:rgba(165, 130, 130, 0.97);
+}
+.r4{
+background:rgba(105, 99, 99, 0.97);	
+}
+ td{
+	 text-align:right
+ }
+th{
+	text-align:left;
 }
