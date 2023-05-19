@@ -8,6 +8,7 @@ table{
 .r1{
 	background:#9D2235;
 	color:whitesmoke;
+	text-align:left;
 	 
 	 
 }
@@ -24,6 +25,6 @@ background:rgba(105, 99, 99, 0.97);
  td{
 	 text-align:right
  }
-th{
+#un1{
 	text-align:left;
 }
